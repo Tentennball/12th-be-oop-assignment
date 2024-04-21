@@ -25,6 +25,7 @@ public class Grade
     public int getKoreanGrade() {
         return koreanGrade;
     }
+
     public int getMathGrade() {
         return mathGrade;
     }
